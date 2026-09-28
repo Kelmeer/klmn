@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff7f2"/>
+      <stop offset="1" stop-color="#fdecea"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f95433"/>
+      <stop offset="1" stop-color="#ff7a5e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="800" fill="url(#bg)" opacity="0.5"/>
+  <rect x="60" y="60" width="1080" height="680" rx="20" fill="none" stroke="#e3eaed" stroke-width="1"/>
+  <rect x="120" y="120" width="960" height="560" rx="16" fill="#fff" stroke="#f95433" stroke-width="3"/>
+  <rect x="120" y="120" width="960" height="560" rx="16" fill="none" stroke="#f95433" stroke-width="1" opacity="0.3"/>
+  <rect x="120" y="120" width="960" height="560" rx="16" fill="url(#bg)" opacity="0.2"/>
+  <rect x="200" y="140" width="140" height="40" rx="10" fill="#f95433"/>
+  <text x="270" y="170" text-anchor="middle" font-family="system-ui" font-size="15" font-weight="700" fill="#fff">ОЧНАЯ ШКОЛА</text>
+  <rect x="200" y="140" width="300" height="40" rx="10" fill="#fff" stroke="#f95433" stroke-width="1.5"/>
+  <text x="350" y="170" text-anchor="middle" font-family="system-ui" font-size="15" font-weight="700" fill="#f95433">2026</text>
+  <text x="200" y="240" text-anchor="start" font-family="system-ui" font-size="52" font-weight="800" fill="#2a3841">Боль в спине 2026</text>
+  <text x="200" y="310" text-anchor="start" font-family="system-ui" font-size="16" font-weight="600" fill="#5d6b75">II Всероссийский междисциплинарный конгресс с международным участием</text>
+  <rect x="200" y="360" width="960" height="140" rx="12" fill="#fff" stroke="#e3eaed" stroke-width="1"/>
+  <rect x="220" y="380" width="40" height="40" rx="8" fill="#f95433"/>
+  <text x="260" y="410" text-anchor="middle" font-family="system-ui" font-size="15" font-weight="700" fill="#fff">Москва</text>
+  <text x="220" y="430" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="600" fill="#2a3841">Palmira Art Hotel</text>
+  <text x="220" y="452" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="600" fill="#2a3841">4 октября 2026 года</text>
+  <rect x="200" y="540" width="960" height="120" rx="12" fill="#fff" stroke="#e3eaed" stroke-width="1"/>
+  <rect x="220" y="560" width="300" height="18" rx="4" fill="#e3eaed"/>
+  <rect x="220" y="592" width="240" height="18" rx="4" fill="#e3eaed"/>
+  <rect x="220" y="624" width="180" height="18" rx="4" fill="#e3eaed"/>
+  <rect x="220" y="656" width="300" height="18" rx="4" fill="#e3eaed"/>
+  <rect x="220" y="688" width="200" height="18" rx="4" fill="#e3eaed"/>
+  <text x="1210" y="170" text-anchor="end" font-family="system-ui" font-size="12" font-weight="600" fill="#5d6b75">СПЕКТР ТЕМ</text>
+  <text x="1210" y="240" text-anchor="end" font-family="system-ui" font-size="12" font-weight="600" fill="#5d6b75">Диагностика</text>
+  <text x="1210" y="264" text-anchor="end" font-family="system-ui" font-size="12" font-weight="600" fill="#5d6b75">Лечение</text>
+  <text x="1210" y="288" text-anchor="end" font-family="system-ui" font-size="12" font-weight="600" fill="#5d6b75">Реабилитация</text>
+  <text x="1210" y="312" text-anchor="end" font-family="system-ui" font-size="12" font-weight="600" fill="#5d6b75">Палеативная помощь</text>
+  <rect x="120" y="700" width="960" height="60" rx="12" fill="#fff" stroke="#f95433" stroke-width="1.5"/>
+  <rect x="140" y="712" width="200" height="38" rx="10" fill="#f95433"/>
+  <text x="240" y="738" text-anchor="middle" font-family="system-ui" font-size="14" font-weight="700" fill="#fff">ПОСТРАНИЦА МЕРОПРИЯТИЯ</text>
+  <path d="M200 240 L1200 240" stroke="#f95433" stroke-width="1" stroke-dasharray="4 4"/>
+</svg>

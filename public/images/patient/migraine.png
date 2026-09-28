@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff7f2"/>
+      <stop offset="1" stop-color="#fff4f1"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff7a5e"/>
+      <stop offset="1" stop-color="#f95433"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg)"/>
+  <circle cx="220" cy="150" r="60" fill="#fff" stroke="#ff7a5e" stroke-width="8"/>
+  <circle cx="220" cy="150" r="46" fill="#fff" stroke="#f95433" stroke-width="2" stroke-dasharray="8 6"/>
+  <circle cx="220" cy="150" r="20" fill="#f95433" stroke="#fff" stroke-width="3"/>
+  <text x="220" y="320" text-anchor="middle" font-family="system-ui" font-size="80" font-weight="800" fill="#f95433">7</text>
+  <text x="220" y="350" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="#5d6b75">бит/с</text>
+  <text x="320" y="240" text-anchor="start" font-family="'Inter', system-ui" font-size="12" font-weight="600" fill="#2a3841">ноцицептивная</text>
+  <text x="320" y="262" text-anchor="start" font-family="'Inter', system-ui" font-size="12" font-weight="600" fill="#2a3841">сигнализация</text>
+  <text x="320" y="284" text-anchor="start" font-family="'Inter', system-ui" font-size="12" font-weight="600" fill="#2a3841">боли в мозге</text>
+  <path d="M330 380 L470 380 L470 470 L330 470 Z" fill="#fff" stroke="#e3eaed" stroke-width="1"/>
+  <rect x="346" y="396" width="86" height="86" rx="10" fill="url(#line)"/>
+  <text x="389" y="452" text-anchor="middle" font-family="system-ui" font-size="15" font-weight="700" fill="#fff">УЗ</text>
+  <text x="389" y="478" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="600" fill="#fff">исследование</text>
+  <rect x="500" y="380" width="100" height="140" rx="10" fill="#fff" stroke="#e3eaed" stroke-width="1"/>
+  <rect x="522" y="400" width="56" height="8" rx="4" fill="#e3eaed"/>
+  <rect x="522" y="426" width="82" height="8" rx="4" fill="#e3eaed"/>
+  <rect x="522" y="452" width="34" height="8" rx="4" fill="#e3eaed"/>
+  <text x="640" y="500" text-anchor="middle" font-family="system-ui" font-size="15" font-weight="600" fill="#2a3841">ЭНМГ</text>
+  <text x="640" y="524" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="600" fill="#5d6b75">(Электронейромиография)</text>
+  <rect x="650" y="380" width="100" height="140" rx="10" fill="#fff" stroke="#e3eaed" stroke-width="1"/>
+  <circle cx="700" cy="430" r="26" fill="#3fb8ae" stroke="#fff" stroke-width="3"/>
+  <text x="700" y="436" text-anchor="middle" dominant-baseline="central" font-family="system-ui" font-size="20" font-weight="800" fill="#fff">Р</text>
+  <text x="700" y="460" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="600" fill="#2a3841">рефлексная</text>
+  <text x="700" y="482" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="600" fill="#2a3841">активация</text>
+  <rect x="840" y="380" width="320" height="140" rx="10" fill="#fff" stroke="#e3eaed" stroke-width="1"/>
+  <rect x="860" y="400" width="280" height="16" rx="4" fill="#f0f5f8"/>
+  <rect x="860" y="428" width="240" height="16" rx="4" fill="#f0f5f8"/>
+  <rect x="860" y="456" width="160" height="16" rx="4" fill="#f0f5f8"/>
+  <rect x="860" y="484" width="120" height="16" rx="4" fill="#f0f5f8"/>
+  <rect x="860" y="512" width="140" height="16" rx="4" fill="#fff" stroke="#e3eaed" stroke-width="1"/>
+  <text x="1000" y="550" text-anchor="middle" font-family="system-ui" font-size="14" font-weight="700" fill="#2a3841">межотраслевой консенсус</text>
+  <text x="1000" y="572" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="600" fill="#5d6b75">по оценке боли</text>
+  <rect x="70" y="520" width="40" height="40" rx="10" fill="#f95433" stroke="#fff" stroke-width="3"/>
+  <text x="90" y="550" text-anchor="middle" dominant-baseline="central" font-family="system-ui" font-size="16" font-weight="800" fill="#fff">В</text>
+  <text x="110" y="600" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="600" fill="#5d6b75">волокна</text>
+  <rect x="330" y="520" width="40" height="40" rx="10" fill="#3fb8ae" stroke="#fff" stroke-width="3"/>
+  <text x="350" y="550" text-anchor="middle" dominant-baseline="central" font-family="system-ui" font-size="16" font-weight="800" fill="#fff">Д</text>
+  <text x="370" y="600" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="600" fill="#5d6b75">нервные</text>
+  <rect x="590" y="520" width="40" height="40" rx="10" fill="#3d6f7d" stroke="#fff" stroke-width="3"/>
+  <text x="610" y="550" text-anchor="middle" dominant-baseline="central" font-family="system-ui" font-size="16" font-weight="800" fill="#fff">Д</text>
+  <text x="630" y="600" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="600" fill="#5d6b75">ноцицептивные</text>
+  <rect x="850" y="520" width="40" height="40" rx="10" fill="#5d6b75" stroke="#fff" stroke-width="3"/>
+  <text x="870" y="550" text-anchor="middle" dominant-baseline="central" font-family="system-ui" font-size="16" font-weight="800" fill="#fff">С</text>
+  <text x="890" y="600" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="600" fill="#5d6b75">симатогенные</text>
+  <rect x="1010" y="520" width="40" height="40" rx="10" fill="#3d6f7d" stroke="#fff" stroke-width="3"/>
+  <text x="1030" y="550" text-anchor="middle" dominant-baseline="central" font-family="system-ui" font-size="16" font-weight="800" fill="#fff">Г</text>
+  <text x="1050" y="600" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="600" fill="#5d6b75">равновесия</text>
+  <path d="M120 330 L1080 330" stroke="#e3eaed" stroke-width="1"/>
+  <path d="M120 430 L1080 430" stroke="#e3eaed" stroke-width="1"/>
+</svg>
