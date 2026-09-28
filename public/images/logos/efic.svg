@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#fff"/>
+  <ellipse cx="32" cy="32" rx="20" ry="26" fill="#fff" stroke="#3fb8ae" stroke-width="2"/>
+  <ellipse cx="32" cy="32" rx="12" ry="18" fill="#3fb8ae"/>
+  <text x="32" y="34" text-anchor="middle" font-family="system-ui" font-size="8" fill="#fff" font-weight="700">EFIC</text>
+</svg>

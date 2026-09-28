@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e8f1f5"/>
+      <stop offset="1" stop-color="#dde7ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#g)"/>
+  <ellipse cx="800" cy="450" rx="260" ry="160" fill="#fff" stroke="#3fb8ae" stroke-width="6"/>
+  <ellipse cx="800" cy="450" rx="200" ry="120" fill="#fff" stroke="#3fb8ae" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="800" y="490" text-anchor="middle" font-family="system-ui" font-size="34" font-weight="800" fill="#2a9d95">Напряжение</text>
+  <text x="800" y="522" text-anchor="middle" font-family="system-ui" font-size="14" font-weight="500" fill="#5d6b75">мышц головного</text>
+  <text x="800" y="544" text-anchor="middle" font-family="system-ui" font-size="14" font-weight="500" fill="#5d6b75">покрытия</text>
+  <path d="M120 720 L1480 720" stroke="#e3eaed" stroke-width="1"/>
+  <circle cx="600" cy="300" r="14" fill="#fff" stroke="#2a9d95" stroke-width="2"/>
+  <circle cx="1000" cy="300" r="14" fill="#fff" stroke="#2a9d95" stroke-width="2"/>
+</svg>

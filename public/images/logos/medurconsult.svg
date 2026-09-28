@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#fff"/>
+  <polygon points="32,12 54,30 54,46 32,54 10,46 10,30" fill="#fff" stroke="#3fb8ae" stroke-width="2"/>
+  <rect x="22" y="30" width="20" height="16" rx="3" fill="#3fb8ae"/>
+  <text x="32" y="44" text-anchor="middle" font-family="system-ui" font-size="9" fill="#fff" font-weight="700">Medur</text>
+</svg>
